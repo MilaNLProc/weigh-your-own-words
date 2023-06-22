@@ -1,0 +1,7 @@
+scipy>=1.10.0
+inseq>=0.3.3
+transformers
+datasets
+pandas
+tqdm
+einops
